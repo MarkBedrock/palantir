@@ -27,3 +27,5 @@
 - Dense scatter → WebGL scatter.
 - Huge heatmaps/PSF → tiled Flight + heatmap; export via Bedrock SVG/PNG.
 - 3D/layouts → Qt3D + Bedrock SVG snapshot for reports.
+
+  minior edit to check GitHub round trip
